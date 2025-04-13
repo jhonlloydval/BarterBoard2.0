@@ -20,6 +20,7 @@ BarterBoard is a Python-MySQL console application inspired by traditional barter
 
 BarterBoard is inspired by the spirit of the barter tradition, creating and ensuring sustainable community development.  
 
+![Features](images/features.png)  
 ## **Features**  
 BarterBoard fosters resource sharing, waste reduction, and stronger communities by offering the following functionalities:  
 
