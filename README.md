@@ -125,15 +125,13 @@ By encouraging the reuse of resources and reducing waste, BarterBoard promotes s
 ---
 
 # **About the Developer**
-Hello! I am Jhon Lloyd, a first-year computer science student and the developer of BarterBoard. BarterBoard is actually the final project for my Computer Programming class under Sir Alexander Maralit. I am currently working my way toward mastering Python, and this project has given me the boost I was aiming for. I worked on this project for 4 days, and I encountered many debugging sessions since I am new to MySQL. 
+Hello! I am Jhon Lloyd, a first-year computer science student and the developer of BarterBoard. BarterBoard is actually the final project for my Computer Programming class under Sir Alexander Maralit. I used Sqlite3 before but now, after quite a few months, I am back to upgrade BarterBoard with the power of MySQL.
 
 In today’s era, online shopping has greatly overshadowed many local traditions, from buying in Divisoria to doing the traditional barter. So, I decided to create a console project for Barter while integrating my knowledge of computer programming. I have developed and learned a lot of concepts while working on this project, from practicing Object-Oriented Programming to learning about MySQL. It was complicated at first, and I asked a lot of questions online, but I grasped the syntax along the way.
 
-I couldn’t imagine how many times I logged into the program—probably close to a thousand, and I’m not even exaggerating. It was very challenging, yet I am relieved to have completed the project before the end of 2024. Everything is not yet final; there are still a lot of things I am not satisfied with, so I am looking forward to coding this project again.
+I couldn’t imagine how many times I logged into the program—probably close to a thousand, and I’m not even exaggerating. Everything is not yet final; there are still a lot of things I am not satisfied with, so I am looking forward to coding this project again.
 
-I'd like to thank a fellow computer science student and friend, Denrei, created a project called HearDrop, which played a significant role in inspiring this work.
-
-Thank you for checking out my project! I am very open to suggestions. This project is not just a task I needed to submit for our final project, but a testament that I am slowly learning day by day and serves as a baby step toward my goal of becoming a software engineer someday.
+Thank you for checking out my project! I am very open to suggestions. This project is not just a task I needed to submit for our semi-finals, but a testament that I am slowly learning day by day and serves as a baby step toward my goal of becoming a software engineer someday.
 
 Best regards, 
 **Jhon Lloyd Valencia**
